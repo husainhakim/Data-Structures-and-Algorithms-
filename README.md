@@ -1,5 +1,5 @@
 
-## 500+ Data Structures and Algorithms practice problems
+## 500 Data Structures and Algorithms practice problems
 
 ### Array
 
